@@ -1,0 +1,101 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/04/2019, 07:52:02 PM
+    Author     : Estudiante
+*/
+
+body {
+    background-image: url("../imagen/fondo.jpg");
+    background-size: 100%;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.style1 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold;}
+.style7 {font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif;}
+.style14 {font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold;}
+.style24 {font-size: 13px; font-weight: bold; color: #04035E; font-family: Verdana, Arial, Helvetica, sans-serif; }
+
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {
+	text-decoration: underline;
+    font-family: Verdana, Arial, Helvetica, sans-serif;	
+    color: #002AE8;
+}
+a:active {text-decoration: none;}
+
+.estilo_input {
+padding:3px 4px;
+overflow: hidden; 
+border:1px solid #ddd0c0;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+font-size: 11px;
+color: black;
+background-color: #ffffff;
+font-family: Verdana, Arial, Helvetica;
+}
+
+
+.boton_personalizado{
+    text-decoration: none;
+    padding: 4px;
+    font-size: 12px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 1px solid #0016b0;
+}
+.boton_personalizado:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+}
+
+.boton_personalizado_red{
+    text-decoration: none;
+    padding: 4px;
+    font-size: 12px;
+    color: #ffffff;
+    background-color: #F5724C;
+    border-radius: 6px;
+    border: 1px solid #0016b0;
+}
+.boton_personalizado_red:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+}
+
+.boton_personalizado_white{
+    text-decoration: none;
+    padding: 4px;
+    font-size: 12px;
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 6px;
+    border: 1px solid #0016b0;
+}
+.boton_personalizado_white:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+}
+
+.estilo_tabla{
+padding:1px 2px;
+overflow: hidden; 
+border:1px solid #ddd0c0;
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px;
+border-radius: 6px;
+font-size: 11px;
+color: black;
+background-color: #ffffff;
+}
